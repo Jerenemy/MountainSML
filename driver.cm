@@ -1,0 +1,12 @@
+Group
+  structure Driver
+is
+  driver.sml
+
+  usercode.cm
+  bitmap.cm
+
+  $/basis.cm
+  $/smlnj-lib.cm
+  $smlnj/compiler/compiler.cm
+  $smlnj-tdp/plugins.cm

@@ -1,0 +1,7 @@
+Group
+  structure Bitmap
+is
+  bitmap.sml
+
+  $/basis.cm
+  $/smlnj-lib.cm

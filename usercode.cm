@@ -1,0 +1,11 @@
+Group
+  structure Ch1P
+is
+  ch1p.sml
+
+  bitmap.cm
+
+  $/basis.cm
+  $/smlnj-lib.cm
+  $smlnj/compiler/compiler.cm
+  $smlnj-tdp/plugins.cm
